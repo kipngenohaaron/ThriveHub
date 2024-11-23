@@ -40,7 +40,9 @@ header nav ul li a {
     font-size: 18px;
     transition: color 0.3s ease;
 }
-
+header nav ul li a:hover {
+    color: #ff7043;
+  }
 .hero {
     background-image: url('images/image 8.jpg');
     background-size: cover;
