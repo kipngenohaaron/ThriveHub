@@ -104,7 +104,38 @@
       <a href="#donate" class="cta-button">Donate Now</a>
     </div>
   </section>
-
+<!-- Contact Section -->
+<section id="contact" class="container">
+    <h2>Contact Us</h2>
+    <p>Have any questions or want to collaborate with us? Get in touch!</p>
+    <div class="contact-grid">
+      <!-- Contact Details -->
+      <div class="contact-info">
+        <h3>Our Office</h3>
+        <p>123 Ujuzi Lane, Nairobi, Kenya</p>
+        <p><strong>Phone:</strong> +254 712 345678</p>
+        <p><strong>Email:</strong> contact@ujuzivijana.org</p>
+        <div class="social-links">
+          <a href="https://facebook.com/ujuzivijana" target="_blank">Facebook</a>
+          <a href="https://instagram.com/ujuzivijana" target="_blank">Instagram</a>
+        </div>
+      </div>
+  
+      <!-- Contact Form -->
+      <form action="/submit-contact" method="POST" class="contact-form">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Your Name" required>
+        
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Your Email" required>
+        
+        <label for="message">Message</label>
+        <textarea id="message" name="message" placeholder="Your Message" rows="5" required></textarea>
+        
+        <button type="submit" class="cta-button">Send Message</button>
+      </form>
+    </div>
+  </section>
   <!-- Footer -->
   <footer>
     <div class="footer-links">
