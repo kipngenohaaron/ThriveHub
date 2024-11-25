@@ -349,3 +349,27 @@ footer .social-media a {
   color: white;
   text-decoration: none;
 }
+Privacy Policy Section */
+#privacy h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+#privacy h3 {
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+#privacy p, #privacy ul {
+    font-size: 18px;
+    line-height: 1.8;
+    color: #555;
+}
+
+#privacy ul {
+    padding-left: 20px;
+}
+
+#privacy ul li {
+    margin-bottom: 10px;
+}
