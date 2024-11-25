@@ -24,6 +24,7 @@ header {
 
 header .logo img {
   width: 80px;
+  height: 80px;
   border-radius: 50%;
 }
 
@@ -50,7 +51,7 @@ header nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-  background-image: url('images/image8.jpg');
+  background-image: url('image3.jpg');
   background-size: cover;
   background-position: center;
   color: white;
