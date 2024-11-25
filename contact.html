@@ -27,23 +27,40 @@
 
   <!-- Contact Form Section -->
   <section id="contact">
-    <h1>Contact Us</h1>
-    <form action="#" method="POST" class="contact-form">
-      <label for="name">Name</label>
-      <input type="text" id="name" name="name" required>
+    <div class="contact-grid">
+        <!-- Contact Info -->
+        <div class="contact-info">
+            <h3>Contact Information</h3>
+            <p>If you have any questions, feel free to reach out to us!</p>
+            <p>Email: support@thrivehub.com</p>
+            <p>Phone: +123-456-7890</p>
 
-      <label for="email">Email</label>
-      <input type="email" id="email" name="email" required>
+            <div class="social-links">
+                <a href="#">Facebook</a>
+                <a href="#">Instagram</a>
+                <a href="#">LinkedIn</a>
+            </div>
+        </div>
 
-      <label for="subject">Subject</label>
-      <input type="text" id="subject" name="subject" required>
+        <!-- Contact Form -->
+        <div class="contact-form">
+            <h3>Get in Touch</h3>
+            <form action="#" method="post">
+                <label for="name">Your Name</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Your Email</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Message</label>
+                <textarea id="message" name="message" required></textarea>
+                
+                <button type="submit">Send Message</button>
+            </form>
+        </div>
+    </div>
+</section>
 
-      <label for="message">Message</label>
-      <textarea id="message" name="message" rows="5" required></textarea>
-
-      <button type="submit">Send Message</button>
-    </form>
-  </section>
 
   <!-- Footer Section -->
   <footer>
