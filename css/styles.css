@@ -350,6 +350,39 @@ footer .social-media a {
   text-decoration: none;
 }
 
+
+/* Quick Links Section */
+.quick-links {
+  text-align: center;
+  padding: 40px;
+  background-color: #f4f4f4;
+}
+
+.quick-links h3 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.quick-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.quick-links ul li {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.quick-links ul li a {
+  color: #0d0450;
+  font-size: 18px;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.quick-links ul li a:hover {
+  color: #ff7043;
+}
 /* Privacy Policy Section */ 
 
 #privacy {
