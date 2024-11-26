@@ -80,8 +80,8 @@ header nav ul li a:hover {
   font-size: 40px;
   font-weight: 700;
   color: #ff7043;
-  margin-bottom: 20px;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+    margin-bottom: 20px;
+  text-shadow: 2px 2px 5px rgba(34, 56, 250, 0.6);
 }
 
 .hero p {
@@ -102,7 +102,7 @@ header nav ul li a:hover {
 
 .cta-button:hover {
   background-color: #e63e23;
-  transform: scale(1.05);
+  transform: scale(1.1);
 }
 
 /* Section Styles */
