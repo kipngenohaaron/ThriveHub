@@ -87,6 +87,8 @@ header nav ul li a:hover {
 .hero p {
   font-size: 24px;
   margin-bottom: 30px;
+  color: #1515da;
+  font-weight: bold;
   text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
 }
 
