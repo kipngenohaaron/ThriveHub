@@ -87,9 +87,9 @@ header nav ul li a:hover {
 .hero p {
   font-size: 24px;
   margin-bottom: 30px;
-  color: #1515da;
+  color: #010152;
   font-weight: bold;
-  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 3px rgba(219, 42, 42, 0.5);
 }
 
 .cta-button {
