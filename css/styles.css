@@ -28,7 +28,11 @@ header .logo img {
   height: 80px;
   border-radius: 50%;
 }
-
+header h1 {
+  color: #ddd;
+  font-size: 24px;
+  font-weight:bold ;
+}
 header nav ul {
   list-style: none;
 }
