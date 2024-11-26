@@ -125,7 +125,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 For inquiries or feedback, please reach out to us:
 
-- **Email**: [info@thrivehub.org](mailto:info@thrivehub.org)
+- **Email**: [kipngenoahaaron@gmail.com](mailto:kipngenoahaaron@gmail.com)
 - **Phone**: 0724828197 | 0724279400
 - **Social Media**:
   - [Facebook](https://facebook.com/thrivehub)
