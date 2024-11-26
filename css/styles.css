@@ -639,3 +639,61 @@ form button {
 form button:hover {
     background-color: #0d0450;
 }
+/* Volunteer Login Section */
+#volunteer-login {
+  background-color: #f0f4fa;
+  padding: 40px 20px;
+  margin-top: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+#volunteer-login h2 {
+  color: #0d0450;
+  margin-bottom: 20px;
+}
+
+#volunteer-login form {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#volunteer-login form input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+#volunteer-login form button {
+  background-color: #ff7043;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+}
+
+#volunteer-login form button:hover {
+  background-color: #0d0450;
+}
+
+#volunteer-login p a {
+  color: #ff7043;
+  text-decoration: none;
+  font-size: 14px;
+  transition: color 0.3s ease;
+}
+
+#volunteer-login p a:hover {
+  color: #0d0450;
+}
