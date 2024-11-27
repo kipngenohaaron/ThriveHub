@@ -257,39 +257,64 @@ section p {
   transform: translateY(-10px);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
 }
-
-/* Footer Section */
+/* Footer General Styling */
 footer {
-  background-color: #0d0450;
-  color: white;
+  background: #222; /* Dark background for contrast */
+  color: #fff; /* Light text for readability */
+  padding: 20px 0;
   text-align: center;
-  padding: 30px 20px;
-  position: relative;
+  font-family: Arial, sans-serif;
 }
 
-footer .footer-links a {
-  color: white;
-  text-decoration: none;
-  margin: 0 15px;
-  font-weight: bold;
-  transition: color 0.3s ease;
+/* Footer Container */
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
-footer .footer-links a:hover {
-  color: #ff7043;
+/* Footer Links */
+.footer-links {
+  margin-bottom: 15px;
 }
 
-footer .social-media a {
+.footer-links a {
+  color: #ffcc00; /* Attractive gold color for links */
   margin: 0 10px;
-  color: white;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.1em;
   transition: color 0.3s ease;
 }
 
-footer .social-media a:hover {
-  color: #ff7043;
+.footer-links a:hover {
+  color: #ffa500; /* Slightly darker gold on hover */
 }
+
+/* Social Media Icons */
+.social-media {
+  margin: 15px 0;
+}
+
+.social-media .social-icon {
+  display: inline-block;
+  color: #ffcc00; /* Gold for icons */
+  font-size: 1.5em;
+  margin: 0 10px;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-media .social-icon:hover {
+  color: #ffa500; /* Change icon color on hover */
+  transform: scale(1.2); /* Slightly enlarge icon on hover */
+}
+
+/* Footer Text */
+footer p {
+  font-size: 0.9em;
+  margin-top: 20px;
+  color: #ccc; /* Subtle gray text for less emphasis */
+}
+
 
 /* Contact Section */
 #contact {
