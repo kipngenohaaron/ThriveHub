@@ -89,7 +89,7 @@ We welcome contributions to enhance the ThriveHub website! If you'd like to cont
 2. **Clone Your Fork**:  
    Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/thrivehub-website.git
+   git clone https://github.com/kipngenohaaron/thrivehub-website.git
    ```
 
 3. **Create a New Branch**:  
