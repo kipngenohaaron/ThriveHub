@@ -63,6 +63,7 @@ header nav ul li a:hover {
   text-align: center;
   padding: 120px 20px;
   position: relative;
+  
 }
 
 .hero::before {
