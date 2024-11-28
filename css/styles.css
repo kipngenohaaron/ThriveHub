@@ -308,6 +308,15 @@ footer {
   color: #ffa500; /* Change icon color on hover */
   transform: scale(1.2); /* Slightly enlarge icon on hover */
 }
+/* LinkedIn Hover Effect */
+.social-media .social-icon .fab.fa-linkedin:hover {
+  color: #0077B5; /* LinkedIn Blue */
+}
+
+/* GitHub Hover Effect */
+.social-media .social-icon .fab.fa-github:hover {
+  color: #333; /* GitHub Black */
+}
 
 /* Footer Text */
 footer p {
