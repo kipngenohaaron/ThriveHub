@@ -132,7 +132,6 @@ For inquiries or feedback, please reach out to us:
   - [Instagram](https://instagram.com/thrivehub)
   - [Twitter](https://twitter.com/thrivehub)
 
----
 
 Thank you for visiting the ThriveHub website! We’re excited to have you be a part of our mission to empower youth through skill-building and community programs.
 
