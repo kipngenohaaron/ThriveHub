@@ -136,3 +136,12 @@ For inquiries or feedback, please reach out to us:
 
 Thank you for visiting the ThriveHub website! We’re excited to have you be a part of our mission to empower youth through skill-building and community programs.
 
+a task
+You are software developer, You are require to create a timetable for your instution using any language.
+The system will do the followqing:
+1. Generate a timetable for each trainer in the instutution
+2. Generate a timetable for each class in the instutution
+3. matches the class to avoid duplication
+4. will allows you to enter the subject and the class name and the trainer name
+5. Durations and venue will be captured 
+6. print for each trainer and the class
